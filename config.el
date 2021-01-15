@@ -34,6 +34,9 @@
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
 (setq display-line-numbers-type t)
 
+(setq fancy-splash-image "~/.doom.d/banner/amadeus.png")
+(setq which-key-idle-delay 0.4)
+(setq doom-localleader-key ",")
 
 ;; Here are some additional functions/macros that could help you configure Doom:
 ;;
